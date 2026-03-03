@@ -1,6 +1,6 @@
 # Text-to-SQL AI Agent
 
-[![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)](https://www.python.org/)
 [![LangGraph](https://img.shields.io/badge/LangGraph-1.0+-green.svg)](https://langchain-ai.github.io/langgraph/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
@@ -57,7 +57,7 @@ Text-To-SQL-MVP/
 
 ### 前置要求
 
-- Python >= 3.10
+- Python >= 3.11
 - MySQL 数据库
 - 阿里云 DashScope API Key
 
